@@ -2,3 +2,10 @@
 .settings
 .DS_Store
 bin
+/BoxDiagram.class
+/GFace.class
+/InteractiveDrawFace.class
+/TextFieldExample.class
+/TrippleYahtzee.class
+/Yahtzee.class
+/YahtzeeConstants.class
